@@ -33,7 +33,7 @@
 <br>
 
 ### **<ins>Dataset</ins>**
-1) **Raw Review Data**
+#### 1) **Raw Review Data**
 
  | **Variables** | **Data Types** | **Desciption** |
  | --------- | ---------- | ---------- |
@@ -50,7 +50,7 @@
  | style | object | Product dictionary, e.g. Format, Hardcover |
  | image | object | images that customers post after they have received the product |
 
-2) **Metadata**
+#### 2) **Metadata**
    
  | **Variables** | **Data Types** | **Desciption** |
  | --------- | ---------- | ---------- |
